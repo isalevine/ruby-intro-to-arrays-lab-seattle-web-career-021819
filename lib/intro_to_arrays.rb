@@ -29,6 +29,3 @@ end
 def length_of_array(blerg)
   blerg.count
 end
-
-
-
